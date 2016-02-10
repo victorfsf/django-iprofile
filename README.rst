@@ -2,6 +2,25 @@
 Django IProfile
 ===============
 
-A Django app adapting the Django shell to work with `IProfile <https://github.com/victorfsf/python-iprofile/>`
+A Django shell command to work with IProfile_.
 
-Wiki: https://github.com/victorfsf/python-iprofile/wiki/
+Usage & Installation
+--------------------
+
+See the IProfile wiki_ before using this.
+
+Add **iprofile_shell** to your project's **INSTALLED_APPS**, then run:
+
+:: 
+
+  $ python manage.py ishell <profile_name>
+
+To open the active_ IProfile, run:
+
+::
+
+  $ python manage.py ishell .
+
+.. _IProfile: https://github.com/victorfsf/python-iprofile/
+.. _wiki: https://github.com/victorfsf/python-iprofile/wiki/
+.. _active: https://github.com/victorfsf/python-iprofile/wiki#activating-a-profile
