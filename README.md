@@ -1,5 +1,7 @@
 # Django IProfile
 
+[![PyPI version](https://badge.fury.io/py/django-iprofile.svg)](https://badge.fury.io/py/django-iprofile)
+
 A Django shell command to work with [IProfile](https://github.com/victorfsf/python-iprofile/).
 
 
