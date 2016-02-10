@@ -8,7 +8,7 @@ version = '0.0.1'
 
 setup(
     name='django-iprofile',
-    packages=find_packages(exclude=['tests']),
+    packages=find_packages(),
     package_data={
         'iprofile_shell': [],
     },
@@ -32,7 +32,7 @@ setup(
         'django'
     ],
     classifiers=[
-        'Development Status :: 4 - Beta',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python :: 2',
