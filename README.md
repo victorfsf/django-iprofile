@@ -23,7 +23,7 @@ See the IProfile [guide](https://github.com/victorfsf/python-iprofile/wiki/) and
 $ python manage.py ishell <profile_name>
 ```
 
-##### To open the [active IProfile](https://github.com/victorfsf/python-iprofile/wiki#activating-a-profile/), run:
+##### To open the [active IProfile](https://github.com/victorfsf/python-iprofile/wiki#activating-a-profile), run:
 
 ```
 $ python manage.py ishell .
