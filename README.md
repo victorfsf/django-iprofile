@@ -11,7 +11,7 @@ Install via pip:
 pip install django-iprofile
 ```
 
-Add `iprofile_shell` to your Django project's `INSTALLED_APPS`.
+Add `iprofile_shell` to your project's `INSTALLED_APPS`.
 
 ## Usage
 
