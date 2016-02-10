@@ -1,6 +1,6 @@
 # Django IProfile
 
-A Django app adapting the Django shell to work with [IProfile](https://github.com/victorfsf/python-iprofile/)
+A Django shell command to work with [IProfile](https://github.com/victorfsf/python-iprofile/).
 
 
 ## Installation
