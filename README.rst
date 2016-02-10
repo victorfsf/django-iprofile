@@ -21,6 +21,6 @@ To open the active_ IProfile, run:
 
   $ python manage.py ishell .
 
-.. _IProfile: https://github.com/victorfsf/python-iprofile/
+.. _IProfile: https://pypi.python.org/pypi/python-iprofile/
 .. _wiki: https://github.com/victorfsf/python-iprofile/wiki/
 .. _active: https://github.com/victorfsf/python-iprofile/wiki#activating-a-profile
