@@ -17,7 +17,7 @@ setup(
     ],
     zip_safe=False,
     version=version,
-    description='A Django app adapting the Django shell to work with IProfile',
+    description='A Django shell command to work with IProfile.',
     author='Victor Ferraz',
     author_email='victorfsf.dev@gmail.com',
     url='https://github.com/victorfsf/django-iprofile',
