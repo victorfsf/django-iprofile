@@ -4,6 +4,8 @@
 
 A Django shell command to work with [IProfile](https://github.com/victorfsf/python-iprofile/).
 
+**PS.: Since IProfile v0.3.0, you can [open a Django shell](https://github.com/victorfsf/python-iprofile/wiki#using-the-django-shell) without this package.**
+
 
 ## Installation
 
