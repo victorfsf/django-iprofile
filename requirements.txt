@@ -1,5 +1,5 @@
 python-iprofile
 django>=1.8
 ipdb==0.8.1
-ipython==4.1.1
+ipython==7.16.3
 twine==1.6.5
